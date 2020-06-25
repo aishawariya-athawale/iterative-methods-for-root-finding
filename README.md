@@ -2,7 +2,7 @@
  
 The values of x that satisfy the equation are called solutions of the equation, and roots or zeros of the expression on its left-hand side.
 
-There are many different root finding techniques. I have created program for some of the common ones like Newton Raphson method, Bisection method, False postion method, Secant method & gradient descent method.
+There are many different root finding techniques. I have created program for some of the common ones like Newton Raphson method, Bisection method, False postion method & Secant method.
 
 These all methods are called iterative methods.
 
